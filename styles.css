@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+textarea {
+    width: 80%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+button {
+    padding: 10px;
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+#response-box {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
